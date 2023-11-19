@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_partA_Horbach_program", "Project_partA_Horbach_program\Project_partA_Horbach_program.csproj", "{1DD7DDA4-9B31-4800-8D54-8ABB8E8A052F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{C4B76ECC-BC6C-4670-B387-A26EDF750496}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1DD7DDA4-9B31-4800-8D54-8ABB8E8A052F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DD7DDA4-9B31-4800-8D54-8ABB8E8A052F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DD7DDA4-9B31-4800-8D54-8ABB8E8A052F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B76ECC-BC6C-4670-B387-A26EDF750496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B76ECC-BC6C-4670-B387-A26EDF750496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B76ECC-BC6C-4670-B387-A26EDF750496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B76ECC-BC6C-4670-B387-A26EDF750496}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
